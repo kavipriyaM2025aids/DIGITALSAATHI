@@ -207,22 +207,32 @@ DigitalSaathi enables elderly citizens to
 
 ---
 
-# 📸 Screenshots
+## 📸 Screenshots
 
-You can add screenshots here.
+### 🏠 Home Page
 
-Example
-
-```
-Home Page
-
-Login Page
-
-Dashboard
-
-Voice Assistant
-
-Medicine Reminder
-```
+![Home Page](screenshots/home.png)
 
 ---
+
+### 🔐 Login Page
+
+![Login Page](screenshots/login.png)
+
+---
+
+### 👴 Elder Dashboard
+
+![Elder Dashboard](screenshots/dashboard.png)
+
+---
+
+### 🎤 Voice Assistant
+
+![Voice Assistant](screenshots/voice-assistant.png)
+
+---
+
+### 💊 Medicine Reminder
+
+![Medicine Reminder](screenshots/reminder.png)
