@@ -1,0 +1,10 @@
+.env
+node_modules/
+build/
+__pycache__/
+*.pyc
+venv/
+.venv/
+/tmp/
+*.wav
+*.mp3
