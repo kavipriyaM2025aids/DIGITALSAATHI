@@ -207,32 +207,37 @@ DigitalSaathi enables elderly citizens to
 
 ---
 
-## 📸 Screenshots
+# Application Screenshots
 
-### 🏠 Home Page
+## Login Page
+![Login Page](screenshots/login-page.png)
 
-![Home Page](screenshots/home.png)
+## User Role Selection
+![User Role Selection](screenshots/user-role-selection.png)
 
----
+## Elder Registration
+![Elder Registration](screenshots/elder-registration.png)
 
-### 🔐 Login Page
+## Elder Dashboard
+![Elder Dashboard](screenshots/elder-dashboard.png)
 
-![Login Page](screenshots/login.png)
+## Appointment Booking Form
+![Appointment Booking Form](screenshots/appointment-booking-form.png)
 
----
+## Appointment Confirmation
+![Appointment Confirmation](screenshots/appointment-confirmation.png)
 
-### 👴 Elder Dashboard
+## Medicine Reminder Management
+![Medicine Reminder Management](screenshots/medicine-reminder-management.png)
 
-![Elder Dashboard](screenshots/dashboard.png)
+## Emergency SOS Screen
+![Emergency SOS Screen](screenshots/emergency-sos-screen.png)
 
----
+## SOS Alert Activated
+![SOS Alert Activated](screenshots/sos-alert-activated.png)
 
-### 🎤 Voice Assistant
+## Settings & Profile
+![Settings & Profile](screenshots/settings-and-profile.png)
 
-![Voice Assistant](screenshots/voice-assistant.png)
-
----
-
-### 💊 Medicine Reminder
-
-![Medicine Reminder](screenshots/reminder.png)
+## Family Registration
+![Family Registration](screenshots/family-registration.png)
