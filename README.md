@@ -203,7 +203,7 @@ DigitalSaathi enables elderly citizens to
 - ❤️ Health Monitoring Dashboard
 - 📍 Live GPS Tracking
 - 🧠 Personalized AI Health Recommendations
-- 📞 Voice Calling Integratio
+- 📞 Voice Calling Integration
 
 ---
 
